@@ -35,6 +35,16 @@ let resumeData = {
       },
     ],
     "work":[
+        {
+            "CompanyName":"CUSH (BASH SHELL IMPLEMENTATION) - C",
+            "specialization":"RECREATED THE BASH SHELL IN WHICH THE USER IS ABLE TO SEND COMMANDS TO START FOREGROUND & BACKGROUND PROCESSES.",
+            "MonthOfLeaving":"September 2022",
+            "YearOfLeaving":"September 2022",
+            "Achievements":"• Effectively worked in a team to collaborate a mock shell terminal implementation.\n" +
+                "• Reprised C to understand job processes and how background & foreground processes work." +
+                " • Implemented simple built-in commands (i.e., ‘jobs’, ‘fg’, ‘bg’, ‘kill’, ‘exit’, and ‘stop’).\n" +
+                "• Successful used Git to provide proper documentation and to collaborate on code."
+        },
       {
         "CompanyName":"GEOGRAPHIC INFORMATION SYSTEM (GIS) - JAVA",
         "specialization":"RESPONSIBLE FOR DESIGNING A SYSTEM TO COLLECT AND EFFECTIVELY STORE AND SEARCH FOR GEOGRAPHIC FEATURES.",
