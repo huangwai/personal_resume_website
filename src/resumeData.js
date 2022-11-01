@@ -106,14 +106,6 @@ let resumeData = {
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       }
-    ],
-    "interests":[
-      {
-        "description":""
-      },
-      {
-        "description":" "
-      }
     ]
   }
   
