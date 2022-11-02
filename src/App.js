@@ -6,6 +6,7 @@ import Portfolio from './components/Portfolio';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+import ReactGA from 'react-ga';
 class App extends Component {
   render() {
     return (
@@ -20,5 +21,7 @@ class App extends Component {
     );
   }
 }
+ReactGA.initialize('UA-248169060-1');  // Insert tracking_id from Google Analytics here
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 export default App;
