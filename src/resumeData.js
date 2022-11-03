@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/huangwai",
     "name": "Jimmy Huynh",
     "role": "Undergraduate CS Student @ Virginia Tech",
-    "linkedinId":" (571)-388-6214 - jimmyhuynh2000@vt.edu",
+    "linkedinId":" jimmyhuynh2000@vt.edu",
     "skypeid": "Your skypeid",
     "roleDescription": " Passionate student who's looking for more opportunities software development. Been exposed to many skills including UI Developement, Data Structures, Low-Level Programming, & much more.",
     "socialLinks":[
@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"Senior Undergraduate at Virginia Tech studying Computer Science. A hardworking and team-orientated member who is seeking to earn an internship where I can showcase my technical background to gather more experience towards my field.",
     "address":"Herndon, Virginia",
-    "website":"(571)-388-6214 jimmyhuynh2000@vt.edu",
+    "website":"jimmyhuynh2000@vt.edu",
     "education":[
       {
         "UniversityName":"Virginia Tech",
