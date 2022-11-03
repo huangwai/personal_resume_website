@@ -4,6 +4,7 @@ import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import ContactUs from './components/ContactUs';
+import Interests from './components/Interests';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 class App extends Component {
@@ -14,6 +15,7 @@ class App extends Component {
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
         {/*<Portfolio resumeData={resumeData}/>*/}
+          <Interests resumeData={resumeData}/>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>

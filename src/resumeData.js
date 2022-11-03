@@ -126,6 +126,17 @@ let resumeData = {
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       }
+    ],
+    "interests":[
+        {
+            "description":"Check out my Instagram photography page @pixbyhuynh"
+        },
+        {
+            "description":"Running + weight lifting are my go-to exercises"
+        },
+        {
+            "description":"Owner of a female brown tabby cat named Nyla"
+        }
     ]
   }
   
