@@ -35,6 +35,7 @@ export default class About extends Component {
                     <br></br>
                     <span>{resumeData.website}</span>
        					   </p>
+                      <a className="resumeLink" href="public/HuynhJimmy_Resume.pdf" download>Download Resume</a>
                   </div>
                </div>
             </div>
