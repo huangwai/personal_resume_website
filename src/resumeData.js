@@ -36,6 +36,16 @@ let resumeData = {
     ],
     "work":[
         {
+            "CompanyName":"Fork-Join Framework (Multithreading) – C",
+            "specialization":"ACHIEVED A SUCESSFUL IMPLEMENTATION OF A SMALL FORK AND JOIN FRAMEWORK THAT ALLOWS FOR PARALLEL EXECUTION OF PROGRAMS.",
+            "MonthOfLeaving":"October 2022",
+            "YearOfLeaving":"October 2022",
+            "Achievements":"•\tCreated a thread pool implementation that allows for dynamic task parallelism.\n" +
+                "•\tEnhanced efficiency by utilizing a work stealing thread pool approach to reduce contention of working tasks.\n" +
+                "•\tCorrectly utilized pthread mutexes to synchronize tasks and to allow for parallelism execution of tasks.\n" +
+                "•\tHandled collaboration with team by properly using Git and to document code changes. \n"
+        },
+        {
             "CompanyName":"CUSH (BASH SHELL IMPLEMENTATION) - C",
             "specialization":"RECREATED THE BASH SHELL IN WHICH THE USER IS ABLE TO SEND COMMANDS TO START FOREGROUND & BACKGROUND PROCESSES.",
             "MonthOfLeaving":"September 2022",
