@@ -2,9 +2,9 @@ let resumeData = {
     "imagebaseurl":"https://github.com/huangwai",
     "name": "Jimmy Huynh",
     "role": "Undergraduate CS Student @ Virginia Tech",
-    "linkedinId":" (571)388-6214 - jimmyhuynh2000@vt.edu",
+    "linkedinId":" (571)-388-6214 - jimmyhuynh2000@vt.edu",
     "skypeid": "Your skypeid",
-    "roleDescription": "Passionate student who's looking for more opportunities software development. Been exposed to many skills including UI Developement, Data Structures, Low-Level Programming, & much more.",
+    "roleDescription": " Passionate student who's looking for more opportunities software development. Been exposed to many skills including UI Developement, Data Structures, Low-Level Programming, & much more.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -19,19 +19,19 @@ let resumeData = {
         {
           "name":"skype",
           "url":"https://www.instagram.com/pixbyhuynh/",
-          "className":"fa fa-twitter"
+          "className":"fa fa-instagram"
         }
       ],
     "aboutme":"Senior Undergraduate at Virginia Tech studying Computer Science. A hardworking and team-orientated member who is seeking to earn an internship where I can showcase my technical background to gather more experience towards my field.",
     "address":"Herndon, Virginia",
-    "website":"(571)388-6214 jimmyhuynh2000@vt.edu",
+    "website":"(571)-388-6214 jimmyhuynh2000@vt.edu",
     "education":[
       {
         "UniversityName":"Virginia Tech",
         "specialization":"Pursing BS in Computer Science",
         "MonthOfPassing":"Aug 2019 -",
         "YearOfPassing":"May 2023",
-        "Achievements":"Cumulative GPA: 3.30"
+        "Achievements":"GPA: 3.30"
       },
     ],
     "work":[
@@ -88,9 +88,9 @@ let resumeData = {
     "skillsDescription":"MAIN LANGUAGES",
     "skills":[
         {
-            "skillname":"Python | R | Java | C | C++ | Kotlin\n" +
-                "JSON | NodeJS | D3/P5 | SQL | MATLAB\n" +
-                "REST APIs | Server Deployment | PowerPoint | RStudio | Linux\n" +
+            "skillname":"Python | R | Java | C | C++ | Kotlin |\n" +
+                "JSON | NodeJS | D3 | P5 | SQL | MATLAB |\n" +
+                "REST APIs | Server Deployment | PowerPoint | RStudio | Linux |\n" +
                 "JavaScript | Agile Methodology | Git | React | HTML5/CSS"
         },
 
