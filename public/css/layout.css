@@ -27,7 +27,7 @@
     font-family: Consolas, Menlo, Monaco, monospace;
     font-weight: bold;
     font-size: 4vh;
-    opacity: 0.7;
+    opacity: .99;
     margin-bottom: 10px;
 }
 .loader span {
