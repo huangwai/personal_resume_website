@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/huangwai",
     "name": "Jimmy Huynh",
-    "role": "Undergraduate CS Student @ Virginia Tech",
+    "role": "passionate undergraduate CS Student @ Virginia Tech",
     "linkedinId":" jimmyhuynh2000@vt.edu",
     "skypeid": "Your skypeid",
-    "roleDescription": " Passionate student who's looking for more opportunities software development. Been exposed to many skills including UI Developement, Data Structures, Low-Level Programming, & much more.",
+    "roleDescription": " Who's looking for full-time opportunities in software development. Experienced with many skills including UI Development, Data Structures, Low-Level Programming, & more.",
     "socialLinks":[
         {
           "name":"linkedin",
